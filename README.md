@@ -16,8 +16,8 @@ class SobreMim extends Desenvolvedor {
   idade = 'Tenho 29 anos';
   local = 'Brasil';🔰
   area  = 'Hoje estou no 4º periodo de  ADS 
-  - Analise e Desenvolvimento de Sistemas👩‍';
-  trabalho  = 'Estou em busca de oportunidades';🚀
+  - Analise e Desenvolvimento de Sistemas👩‍ Atuo como estagiaria com ERP LOGIX e Totvs Fluig ';
+    'Estou sempre em buscas de novos desafios ';🚀
   hobby = 'Eu amo tomar café ☕ e viajar✈️';
 }
 
