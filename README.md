@@ -1,6 +1,6 @@
 
 <p align="center">
-  <a href="https://github.com/rwigna/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Desenvolvedora%20Front-End%20;Sejam%20%20Bem-Vindos%20&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"  ></a>
+  <a href="https://github.com/rwigna/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Desenvolvedora%20%20;Sejam%20%20Bem-Vindos%20&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"  ></a>
 </p>
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
