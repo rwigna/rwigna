@@ -13,9 +13,9 @@ import Desenvolvedor from 'Wigna(uigna)';
 
 class SobreMim extends Desenvolvedor {
   nome     = 'Olá!**🌐** sou Wigna Romaisa';
-  idade = 'Tenho 29 anos';
+  idade = 'Tenho 30 anos';
   local = 'Brasil';🔰
-  area  = 'Hoje estou no 4º periodo de  ADS 
+  area  = 'Hoje estou no 5º periodo de  ADS 
   - Analise e Desenvolvimento de Sistemas👩
 ‍ Atuo como estagiaria com ERP LOGIX e Totvs Fluig ';
     'Estou sempre em buscas de novos desafios ';🚀
